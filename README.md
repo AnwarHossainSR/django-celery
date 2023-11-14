@@ -5,7 +5,7 @@ This is a Django REST API project. To get started, follow these steps:
 1. Clone the repository:
 
 ```
-git clone git@github.com:AnwarHossainSR/django-ecommerce-api.git
+git clone git@github.com:AnwarHossainSR/django-celery.git
 ```
 
 2. Create and activate a virtual environment:
